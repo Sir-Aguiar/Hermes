@@ -1,7 +1,12 @@
 {
   "name": "hermes",
   "private": true,
-  "version": "0.0.0",
+  "version": "0.0.1",
+  "author": {
+    "name": "Felipe Ferreira Aguiar",
+    "email": "felipeferreiraaguiar9@gmail.com",
+    "url": "https://github.com/Sir-Aguiar"
+  },
   "description": "Named after the Greek god of speed, the Messenger of the Gods, the one who delivers commands and information between Mount Olympus and mortals on Earth. Like him, we make your life easier when communicating two poles.",
   "type": "module",
   "scripts": {
@@ -20,8 +25,6 @@
     "@types/node": "^20.8.6",
     "@types/react": "^18.2.15",
     "@types/react-dom": "^18.2.7",
-    "@typescript-eslint/eslint-plugin": "^6.0.0",
-    "@typescript-eslint/parser": "^6.0.0",
     "@vitejs/plugin-react": "^4.0.3",
     "typescript": "^5.0.2",
     "vite": "^4.4.5"
