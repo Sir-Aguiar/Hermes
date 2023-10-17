@@ -1,0 +1,27 @@
+{
+  "name": "hermes",
+  "version": "1.0.0",
+  "description": "Named after the Greek god of speed, the Messenger of the Gods, the one who delivers commands and information between Mount Olympus and mortals on Earth. Like him, we make your life easier when communicating two poles.",
+  "main": "build/index.js",
+  "scripts": {
+    "test": "npx vitest",
+    "test:ui": "npx vitest --ui",
+    "dev": "",
+    "start": "node ."
+  },
+  "keywords": [
+    "formulary",
+    "forms"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/dotenv": "^8.2.0",
+    "@types/node": "^20.8.6",
+    "@vitest/ui": "^0.34.6",
+    "dotenv": "^16.3.1",
+    "ts-node-dev": "^2.0.0",
+    "typescript": "^5.2.2",
+    "vitest": "^0.34.6"
+  }
+}
